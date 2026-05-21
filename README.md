@@ -4,7 +4,7 @@ A React + Vite prototype dashboard for the **National Strategy for Suicide Preve
 
 Live demo: https://saimaryada.github.io/suicide-prevention-dashboard/
 
-## 4:03 AM Handoff
+## Project Overview
 
 This repo is a polished prototype for showing dashboard structure, audience pathways, visual design, and how selected healthcare and crisis-service metrics could eventually be integrated. It uses static mock data only. There is no backend yet.
 
